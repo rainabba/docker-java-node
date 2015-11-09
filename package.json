@@ -1,14 +1,10 @@
 {
-  "name": "docker-java8-node5",
+  "name": "docker-java-node",
   "version": "1.0.0",
-  "description": "Dockerfile providing OpenJDK8 and Node5.0.0 with build-deps",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Dockerfile providing combinations of OpenJDK and NodeJS with build-deps",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainabba/docker-java8-node5.git"
+    "url": "git+https://github.com/rainabba/docker-java-node.git"
   },
   "keywords": [
     "docker",
@@ -18,7 +14,7 @@
   "author": "Michael-Rainabba Richardson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rainabba/docker-java8-node5/issues"
+    "url": "https://github.com/rainabba/docker-java-node/issues"
   },
-  "homepage": "https://github.com/rainabba/docker-java8-node5#readme"
+  "homepage": "https://github.com/rainabba/docker-java-node#readme"
 }
