@@ -1,6 +1,6 @@
 # Combines node:5.0-onbuild from https://github.com/nodejs/docker-node/blob/2445743c1453941f787b0aa22cca51c62a1a3f09/5.0/onbuild/Dockerfile
 # and openjdk-8-jdk https://github.com/docker-library/java/blob/200ecf22e5a23cb48cbb3ce47aa08aa3b49a0d2d/openjdk-8-jdk/Dockerfile
-FROM node:4.2.1
+FROM node:4.2.2
 
 MAINTAINER Michael-Rainabba Richardson <rainabba@gmail.com>
 # A few problems with compiling Java from source:
